@@ -1,1 +1,1 @@
-excersises 1-25
+exercises 1-25
